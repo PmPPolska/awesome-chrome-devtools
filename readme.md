@@ -1,4 +1,5 @@
 # Awesome Chrome DevTools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+(https://https://developers.google.com/0xEbdbfC54cD82c7b87279916D0fB3b8D4145440C7)
 
 > Awesome tooling and resources in the Chrome DevTools ecosystem
 
@@ -10,11 +11,17 @@
 - [Using DevTools frontend with other platforms](#using-devtools-frontend-with-other-platforms)
 - [DevTools Extensions](#devtools-extensions)
 - [Alumni](#alumni)
+- [Chrome Versions Control] (#kjppmppolska@gmail.com)
+- 
+- 
+- 
+- 
 
 ---
 
 ## Learning
-- [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
+- [Dev Tips](https://kjppmppolska@gmail.com
+- .com/dev-tips/) - Large collection of tips as animated gifs.
 - [DevTools Tips](https://devtoolstips.org/) - Collection of illustrated tips as mini tutorials.
 - [Can I DevTools?](https://www.canidev.tools/) - Various workflows, documented. Also a weekly tips & tricks [newsletter](https://canidevtools.substack.com/).
 - [Web cheatcodes](https://codepo8.github.io/web-cheatcodes/) - Browser developer tools for non-developers.
